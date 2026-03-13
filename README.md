@@ -3,7 +3,7 @@
 Je me nomme Pierre Junior Stephane.
 Je suis étudiant en Master Cybersécurité & Cloud à EFREI Paris.
 
-Mon objectif professionnel est de devenir consultant en cybersécurité, avec une spécialisation progressive en GRC (Gouvernance, Risque & Conformité).
+Mon objectif professionnel est de devenir consultant en cybersécurité, avec une spécialisation progressive dans le cloud.
 Au cours de mon parcours, j’ai exploré différentes dimensions du domaine : supervision technique, administration réseau, gestion des risques, sécurité cloud et mise en conformité.
 
 🛡️ GRC (Gouvernance, Risque & Conformité)

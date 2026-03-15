@@ -32,3 +32,12 @@ Le dossier Risk Analysis s’appuie sur un scénario fictif mettant en scène l�
 📌 Projet 3 : Politique de Sécurité (PSSI)-Datasecure
 
 Ce projet consiste à élaborer une Politique de Sécurité des Systèmes d’Information (PSSI) pour l’entreprise fictive DataSecure Inc., dans le cadre de la mise en place d’un SMSI aligné sur la norme ISO/IEC 27001 et structuré selon la méthodologie EBIOS Risk Manager. L’objectif était de formaliser la gouvernance SSI, d’identifier et d’évaluer les risques majeurs (notamment le vol de données et la non-conformité réglementaire), puis de définir un Plan de Traitement des Risques et des règles de sécurité conformes à ISO/IEC 27002. Le projet intègre également les exigences réglementaires européennes telles que NIS2, DORA et RGPD, et s’inscrit dans une logique d’amélioration continue (PDCA). Il m’a permis de renforcer mes compétences en gouvernance SSI, en analyse de risques stratégique et en pilotage de la conformité réglementaire.  [lien du projet](https://github.com/OPJs/PSSI-Datasecure)
+
+
+📌 Projet 4 : Stratégie de Cybersécurité
+
+
+
+Ce référentiel contient l'intégralité du projet de stratégie de cybersécurité élaboré pour VITASECURE, une entreprise fictive opérant dans le secteur des technologies de la santé.
+Ce projet s'appuie sur un scénario réaliste et montre comment une entreprise numérique de taille moyenne peut concevoir, structurer et mettre en œuvre un cadre complet de gouvernance en matière de cybersécurité.
+[lien du projet](https://github.com/OPJs/Cybersecurity-Strategy)

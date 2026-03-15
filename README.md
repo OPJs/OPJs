@@ -51,4 +51,6 @@ Ce projet s'appuie sur un scénario réaliste et montre comment une entreprise n
 
 📌 Projet 6 :  [python-Datavisualisation](https://github.com/OPJs/python-Datavisualisation/blob/main/README.md)
 
+📌 Projet 7 :  [Azure Cloud](https://github.com/OPJs/Azure-Cloud/blob/main/README.md)
+
 

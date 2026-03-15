@@ -41,3 +41,11 @@ Ce projet consiste à élaborer une Politique de Sécurité des Systèmes d’In
 Ce référentiel contient l'intégralité du projet de stratégie de cybersécurité élaboré pour VITASECURE, une entreprise fictive opérant dans le secteur des technologies de la santé.
 Ce projet s'appuie sur un scénario réaliste et montre comment une entreprise numérique de taille moyenne peut concevoir, structurer et mettre en œuvre un cadre complet de gouvernance en matière de cybersécurité.
 [lien du projet](https://github.com/OPJs/Cybersecurity-Strategy)
+
+
+
+🛡️ AUTRES PROJETS
+
+📌 Projet 4 :  [Mise en oeuvre de Eyes of Network](https://github.com/OPJs/EyesOfNetwork-Security-Network)
+
+

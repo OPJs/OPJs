@@ -5,6 +5,7 @@ Je suis étudiant en Master Cybersécurité & Cloud à EFREI Paris.
 
 Mon objectif professionnel est de devenir consultant en cybersécurité, avec une spécialisation progressive dans le cloud.
 Au cours de mon parcours, j’ai exploré différentes dimensions du domaine : supervision technique, administration réseau, gestion des risques, sécurité cloud et mise en conformité.
+Pour la réalisation de mon objectif je suis à la recherche d'un stage d'une durée de 4 à 6 mois ensuiste d'une alternance d'une durée d'1 ans à partir de Septembre 2026
 
 🛡️ GRC (Gouvernance, Risque & Conformité)
 
